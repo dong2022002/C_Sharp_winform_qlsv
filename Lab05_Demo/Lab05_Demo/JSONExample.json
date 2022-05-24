@@ -1,0 +1,18 @@
+{
+  "sinhvien": [
+    {
+      "MSSV": "2014446",
+      "hoten": "Tr?n Di?u Ðông",
+      "tuoi": 21,
+      "diem": 10,
+      "tongiao": true
+    },
+    {
+      "MSSV": "1234567",
+      "hoten": "Tr?n Ðông",
+      "tuoi": 21,
+      "diem": 5,
+      "tongiao":false
+    }
+  ]
+}
